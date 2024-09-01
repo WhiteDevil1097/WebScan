@@ -8,7 +8,7 @@ def animated(text):
      for x in text:
         sys.stdout.write(x)
         sys.stdout.flush()
-        time.sleep(0.05)
+        time.sleep(0.01)
 logo = '''
 
  __      __      ___.     _________             
@@ -21,8 +21,8 @@ logo = '''
 animated(logo)
 print("          »»»»Coder By White_Devil««««  ") 
 
-username = "Whitedevil"
-password = "1234"
+username = "Admin"
+password = "Kali1234"
 givenUsername = input(" Enter Your username: ")
 
 if givenUsername == username:
@@ -98,7 +98,7 @@ def get_website_info(url):
 
 # Test the function with a URL:
 get_website_info('https://ciaindia.org.in/')
-get_website_info('https://openai.com')
+get_website_info('https://facebook.com/")
 get_website_info('https://www.expressvpn.com/blog/best-onion-sites-on-dark-web/')
 get_website_info
 get_website_info
