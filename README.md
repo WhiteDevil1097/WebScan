@@ -6,5 +6,5 @@ pkg install wget -y
 pkg install python -y
 
 Run python @spy.py
-username:Whitedevil
-password:1234
+username:Admin
+password:Kali1234
